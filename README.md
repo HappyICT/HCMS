@@ -5,7 +5,7 @@
 ## 1. 공통 결과 포멧
 
 - 모든 결과는 JSON 스트링으로 제공됩니다.
-- result : 결과 값은 Service VO로 제공됩니다.
+- result : 결과 값은 Servicd VO로 제공됩니다.
 
 ## 2. 항목
 
@@ -127,6 +127,8 @@
   - JDK 1.8
 
 ### 3.1 SVN
+
+- dev /dev1! 사용하시거나 개인 계정 추가하시면 됩니다.
 
 - Client: [svn://10.10.10.200/happyict_cms/trunk/HCMSClient](svn://10.10.10.200/happyict_cms/trunk/HCMSClient)
 - Admin: [svn://10.10.10.200/happyict_cms/trunk/HCMSAdmin](svn://10.10.10.200/happyict_cms/trunk/HCMSAdmin)

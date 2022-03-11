@@ -52,11 +52,11 @@
 | Key     | 설명 |
 | ------- | ---- |
 | { }     | JSON |
-| TITLE   | 제목 |
-| CONTENT | 내용 |
+| title   | 제목 |
+| content | 내용 |
 
 ```json
-{ "TITLE": "intro", "CONTENT": "<title>행복ICT</title>" }
+{ "title": "intro", "content": "<title>행복ICT</title>" }
 ```
 
 ### 2.3 게시판 목록 요청
@@ -83,11 +83,11 @@
 | Key     | 설명 |
 | ------- | ---- |
 | { }     | JSON |
-| TITLE   | 제목 |
-| CONTENT | 내용 |
+| title   | 제목 |
+| content | 내용 |
 
 ```json
-{ "TITLE": "notice", "CONTENT": "공지사항" }
+{ "title": "notice", "content": "공지사항" }
 ```
 
 ### 2.4 게시판 내용 요청
@@ -117,7 +117,7 @@
 | content | 내용 |
 
 ```json
-{ "TITLE": "notice", "CONTENT": "<p><img class="image_resized" style="width:28.18%;" src="/liveFile/notice-edit/happyFileView.do?fileName=20220307000000ABCD.jpg"></p><p>&nbsp;</p>" }
+{ "title": "notice", "content": "<p><img class="image_resized" style="width:28.18%;" src="/liveFile/notice-edit/happyFileView.do?fileName=20220307000000ABCD.jpg"></p><p>&nbsp;</p>" }
 ```
 
 ## 3. 개발정보
@@ -133,7 +133,7 @@
 
 ### 3.2 개발기
 
-- Client: [http://10.10.10.201:3333](http://10.10.10.201:33333)
+- Client: [http://10.10.10.201:33333](http://10.10.10.201:33333)
 - Admin: [http://10.10.10.201:44444](http://10.10.10.201:44444)
 
 ### 3.2 계정

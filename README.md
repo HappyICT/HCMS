@@ -1,7 +1,5 @@
 # HICT CMS REST API 정의서
 
----
-
 ## 0 Client -> Server
 
 ## 1. 공통 결과 포멧
